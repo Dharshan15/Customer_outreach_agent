@@ -141,11 +141,11 @@ crew = Crew(
 )
 
 inputs = {
-    "lead_name": "Zorodium",
+    "lead_name": "Antropic",
     "industry": "AI",
-    "key_decision_maker": "Dharshan S",
-    "position": "Founder and CEO",
-    "milestone": "product launch"
+    "key_decision_maker": "Dario Amodei",
+    "position": "Co-Founder and CEO",
+    "milestone": "Product Launch"
 }
 
 result = crew.kickoff(inputs=inputs)
